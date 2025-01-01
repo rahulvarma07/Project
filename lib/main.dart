@@ -1,6 +1,7 @@
 // ignore_for_file: prefer_const_constructors
 
 import 'package:chatapplication/Screens/ChatScreen.dart';
+import 'package:chatapplication/Screens/LoginScreen.dart';
 import 'package:chatapplication/Screens/MessagesScreen.dart';
 import 'package:chatapplication/Screens/SignUpScreen.dart';
 import 'package:flutter/material.dart';
